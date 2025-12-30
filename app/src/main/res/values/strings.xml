@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">RoomDemo</string>
+    <string name="izbrisi_dokoncana_opravila">Izbriši dokončana opravila</string>
+    <string name="ni_opravil">Ni opravil\n\nDodajte novo opravilo s klikom na + gumb</string>
+    <string name="dodaj_opravilo">Dodaj opravilo</string>
+    <string name="naslov_opravila">Naslov opravila</string>
+    <string name="opis_opravila">Opis opravila</string>
+    <string name="izbrisi">Izbriši</string>
+    <string name="opis">Opis (opcijsko)</string>
 </resources>
